@@ -1,7 +1,7 @@
-<h1>📚 BookVerse</h1>
+<h1>📚 शब्दVerse</h1>
 
 <p>
-  <strong>BookVerse</strong> is a <strong>community-driven book ecosystem</strong>
+  <strong>शब्दVerse</strong> is a <strong>community-driven book ecosystem</strong>
   where readers discover, discuss, review, and buy books through
   <strong>genre-based communities</strong>.
   <br />
@@ -38,7 +38,7 @@
 
 <hr />
 
-<h2>✅ How BookVerse Solves This</h2>
+<h2>✅ How शब्दVerse Solves This</h2>
 
 <p>BookVerse brings everything into <strong>one focused platform</strong>:</p>
 
@@ -55,7 +55,7 @@
 <h2>🌍 One Platform. One Community. Endless Stories.</h2>
 
 <p>
-  BookVerse isn’t just about books —
+  शब्दVerse isn’t just about books —
   <br />
   it’s about <strong>people who love books</strong>.
 </p>
